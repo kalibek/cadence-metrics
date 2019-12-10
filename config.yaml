@@ -1,0 +1,7 @@
+cadence:
+  server: localhost
+  port: 7933
+  domain: sample2
+  tasklist:
+    - INSURANCE_CONTRACT_MAIN
+    - PAYMENT_MAIN
